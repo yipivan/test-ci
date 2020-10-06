@@ -2,11 +2,11 @@
   "name": "test-ci",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.6.0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "test": "jshint hello.js"
+  }
 }
