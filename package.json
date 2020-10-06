@@ -1,8 +1,7 @@
 {
   "name": "test-ci",
-  "version": "1.0.0",
-  "description": "",
   "version": "0.0.1",
+  "description": "",
   "devDependencies": {
     "jshint": "^2.6.0"
   },
